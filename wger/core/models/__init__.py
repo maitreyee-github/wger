@@ -14,7 +14,7 @@
 #  You should have received a copy of the GNU Affero General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# Local
+# import local libraries
 from .cache import UserCache
 from .days_of_week import DaysOfWeek
 from .language import Language
